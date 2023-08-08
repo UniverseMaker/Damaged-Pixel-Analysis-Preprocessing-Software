@@ -1,0 +1,16 @@
+G:\공유 드라이브\Pontos-Archive\Workspace\Windows\DamagedPixelDetection\DamagedPixelDetection\obj\Debug\DamagedPixelDetection.csproj.AssemblyReference.cache
+G:\공유 드라이브\Pontos-Archive\Workspace\Windows\DamagedPixelDetection\DamagedPixelDetection\obj\Debug\DamagedPixelDetection.Form1.resources
+G:\공유 드라이브\Pontos-Archive\Workspace\Windows\DamagedPixelDetection\DamagedPixelDetection\obj\Debug\DamagedPixelDetection.Properties.Resources.resources
+G:\공유 드라이브\Pontos-Archive\Workspace\Windows\DamagedPixelDetection\DamagedPixelDetection\obj\Debug\DamagedPixelDetection.csproj.GenerateResource.cache
+G:\공유 드라이브\Pontos-Archive\Workspace\Windows\DamagedPixelDetection\DamagedPixelDetection\obj\Debug\DamagedPixelDetection.csproj.CoreCompileInputs.cache
+G:\공유 드라이브\Pontos-Archive\Workspace\Windows\DamagedPixelDetection\DamagedPixelDetection\bin\Debug\DamagedPixelDetectionPreprocessing.exe.config
+G:\공유 드라이브\Pontos-Archive\Workspace\Windows\DamagedPixelDetection\DamagedPixelDetection\bin\Debug\DamagedPixelDetectionPreprocessing.exe
+G:\공유 드라이브\Pontos-Archive\Workspace\Windows\DamagedPixelDetection\DamagedPixelDetection\bin\Debug\DamagedPixelDetectionPreprocessing.pdb
+G:\공유 드라이브\Pontos-Archive\Workspace\Windows\DamagedPixelDetection\DamagedPixelDetection\obj\Debug\DamagedPixelDetectionPreprocessing.exe
+G:\공유 드라이브\Pontos-Archive\Workspace\Windows\DamagedPixelDetection\DamagedPixelDetection\obj\Debug\DamagedPixelDetectionPreprocessing.pdb
+G:\공유 드라이브\Pontos-Archive\Workspace\Windows\DamagedPixelDetection\DamagedPixelDetection\bin\Debug\RedEyeEngine.dll
+G:\공유 드라이브\Pontos-Archive\Workspace\Windows\DamagedPixelDetection\DamagedPixelDetection\bin\Debug\Interop.SHDocVw.dll
+G:\공유 드라이브\Pontos-Archive\Workspace\Windows\DamagedPixelDetection\DamagedPixelDetection\bin\Debug\Interop.MSHTML.dll
+G:\공유 드라이브\Pontos-Archive\Workspace\Windows\DamagedPixelDetection\DamagedPixelDetection\bin\Debug\Interop.MSScriptControl.dll
+G:\공유 드라이브\Pontos-Archive\Workspace\Windows\DamagedPixelDetection\DamagedPixelDetection\bin\Debug\RedEyeEngine.pdb
+G:\공유 드라이브\Pontos-Archive\Workspace\Windows\DamagedPixelDetection\DamagedPixelDetection\obj\Debug\DamagedPixelDetection.csproj.CopyComplete
